@@ -19,6 +19,8 @@ compass:
   include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
   twitter: "Jason_Silverman"
+  # Description for unfurl
+  description: "Cloud architect, data scientist"
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
